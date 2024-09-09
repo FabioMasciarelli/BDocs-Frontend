@@ -1,0 +1,10 @@
+@use './partials/variables.scss' as *;
+@import"@fortawesome/fontawesome-free/css/all.min.css";
+@import 'bootstrap/scss/bootstrap';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Lora, sans-serif;
+}
